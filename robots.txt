@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tolaky94.github.io/sitemap.xml
+Host: https://tolaky94.github.io
